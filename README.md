@@ -4,7 +4,7 @@ This project is a CSV parsing tool designed to analyze network-related data, suc
 
 ##Features
 Tag Counts: Computes how many times each tag appears in the CSV file.
-Port/Protocol Combination Counts: Tallies the number of occurrences for each port/protocol combination.
+Port/Protocol Combination Counts: Tallies the numberof occurrences for each port/protocol combination.
 
 ##Assumptions and Limitations
 Log Format: The program only supports the default CSV log format and does not support custom formats.
